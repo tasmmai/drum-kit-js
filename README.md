@@ -4,6 +4,12 @@ A simple interactive **drum kit** built with JavaScript, HTML, and CSS. Play dif
 
 ---
 
+## 🔗 Live Demo
+👉 [Try it here!](https://tasmmai.github.io/drum-kit-js/)
+
+---
+
+
 ## 🎯 Features
 - Keyboard support (W, A, S, D, J, K, L keys).
 - Click support for buttons.
